@@ -26,5 +26,3 @@ This project analyzes banking customer data to identify customer segments, loan 
 1. Executive Summary
 2. Deposits Analysis
 3. Loan Analysis
-
-## Project Files
